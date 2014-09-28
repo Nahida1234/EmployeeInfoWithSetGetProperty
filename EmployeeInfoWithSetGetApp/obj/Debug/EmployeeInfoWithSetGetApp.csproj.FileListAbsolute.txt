@@ -1,0 +1,9 @@
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\bin\Debug\EmployeeInfoWithSetGetApp.exe.config
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\obj\Debug\EmployeeInfoWithSetGetApp.csprojResolveAssemblyReference.cache
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\obj\Debug\EmployeeInfoWithSetGetApp.Form1.resources
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\obj\Debug\EmployeeInfoWithSetGetApp.Properties.Resources.resources
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\obj\Debug\EmployeeInfoWithSetGetApp.csproj.GenerateResource.Cache
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\bin\Debug\EmployeeInfoWithSetGetApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\bin\Debug\EmployeeInfoWithSetGetApp.pdb
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\obj\Debug\EmployeeInfoWithSetGetApp.exe
+c:\users\popy\documents\visual studio 2013\Projects\EmployeeInfoWithSetGetApp\EmployeeInfoWithSetGetApp\obj\Debug\EmployeeInfoWithSetGetApp.pdb
